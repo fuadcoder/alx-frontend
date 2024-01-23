@@ -41,5 +41,5 @@
 ---
 
 ## Author
-* **Olasupo Olamide** - [fuadcoder](https://github.com/fuadcoder)
+* **Olasupo Olamide** - [fuadcoder] (https://github.com/fuadcoder)
 
